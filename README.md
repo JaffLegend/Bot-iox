@@ -1,6 +1,9 @@
 # The BOT-iOX Project
+# Thank you for helping! We may have stopped...
+Bot-iOX v2 is the last version of Bot-iOX, from 2019, we have been working hard to keep our bot in tip top shape, but now it is time for it to come to an end. But this doesn't mean we have stopped too, we now are working on other projects, such as lightX DevBox, or the WaterWeb Browser, thank you all for keeping with us, and we move on!
+
 This is the BOT-iOX Discord Bot Project, this is an project to help people make their own discord bot.
-Please note that you atleast need to know how to run node.js files. 
+Bot-iOX is now unactive and not developed anymore.
 # Info
 This is a bot designed to help you make your own bot and then share it, A project proudly made with JetPack Inc.
 
